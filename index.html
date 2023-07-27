@@ -1,0 +1,108 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>webViewer</title>
+    <meta name="description" content="Use a custom web browser for navigate on Youtube and record music">
+    <meta name="keywords" content="webviewer, Youtube, music, channel, video, record, mp3">
+    <meta name="author" content="MICHAEL ANDRE FRANIATTE">
+
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="../extra/w3.css">
+    <link rel="stylesheet" href="../bootstrap/bootstrap.min.css" />
+    <link rel="stylesheet" href="../custom/custom.css" />
+    <link rel="stylesheet" href="../extra/rgpd.css" />
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.css">
+    <link rel="stylesheet" href="../extra/spinner.css" />
+
+</head>
+
+<body id="page-top" onLoad="window_onload()">
+
+    <div class="back">
+
+    <div class="fa fa-spinner fa-spin spinner show"></div>
+
+    <span aria-label="No Cookies!" class="infobulle">&#8505;</span>
+
+    <button onclick="topFunction()" id="TopBtn" aria-label="Go to top">▲</button>
+
+    <div id="banner"><img src="../img/favicon.jpg" /><div id="closebanner">✖</div><div id="textbanner">This website respect entirely the life privacy. No cookies are stored on any database or any file or any webbrowser.</div><div id="button1banner">I understand</div><div id="button2banner">I don't understand</div></div>
+
+    <div class="top w3-center">
+        <a href="../#web"><img class="logo" src="wv.png" alt="wv"></a>
+        <div class="title colored">
+            <h2>webViewer</h2>
+            <h1>All Youtube with Music Record</h1>
+        </div>
+    </div>
+
+    <div class="container">
+
+        <div class="w3-row first-section">
+            <div class="w3-container">
+                <h3 class="w3-center colored"><b>Navigating Freely</b></h3>
+                <p>
+                    <b>W</b>ith this program, you have all videos and songs on Youtube in one place. All channels or videos or playlists or search links, you add, and all recorded songs, you add, are easy to access without you need to connect on Youtube. You can add every of that on 2 pages. When you positioning your mouse cursor on bottom of the program, a menu barre is appearing. Here, there are several buttons... For close the program, for minimize the program, for go backward, for go forward, for open the page of links, for reload the page, for go on a link, then there is a box for put the link to go, and also the buttons, for record audio, for open a tuner audio, for open the page of songs, for clear cache of the browser, and finally the current time of the day. The principle is to skip video durating ads and to not be invaded by annoying suggestions following your history of browsing Youtube. Have easy access to worldwide Youtube videos without Youtube annoying features tracking you everytime you go to watch videos. Don't be annoyed to always have to skip ads for watch the next suggested video. Have fun listening all your music and recording songs with a simple button and low size files. Find easy your music and your Youtube channels, videos, playlists and search links with a search tool with autocompletion and coloring in orange the text of buttons for play songs or for going to links.
+                </p>
+                <p>
+                    <b>H</b>ave fun to watch Youtube or listen your songs. Have fun with easy access and easy to edit your custom pages for linking channels or songs you have on your computer. The following pictures are illustrating the pages of the program. The first picture corresponds to the main page. The other pictures are corresponding to the page where you listen your recorded songs, and you can edit it like the page for your list of channels, videos, playlists and search links. Let's see...
+                </p>
+            </div>
+        </div>
+
+        <div class="w3-center row">
+            <div class="column">
+                <img src="../img/webviewer-main.png" alt="webviewer-main" style="width:100%" onclick='img_box("../img/webviewer-main.png")'>
+            </div>
+            <div class="column">
+                <img src="../img/webviewer-playaudio-editoff.png" alt="webviewer-playaudio-editoff" style="width:100%" onclick='img_box("../img/webviewer-playaudio-editoff.png")'>
+            </div>
+            <div class="column">
+                <img src="../img/webviewer-playaudio.png" alt="webviewer-playaudio" style="width:100%" onclick='img_box("../img/webviewer-playaudio.png")'>
+            </div>
+            <div class="column">
+                <img src="../img/webviewer-playaudio-autocompletion.png" alt="webviewer-playaudio-autocompletion" style="width:100%" onclick='img_box("../img/webviewer-playaudio-autocompletion.png")'>
+            </div>
+        </div>
+
+        <div class="w3-row second-section">
+            <div class="w3-container">
+                <h3 class="w3-center colored"><b>Considerations About the Program</b></h3>
+                <p>
+                    <b>T</b>he program is only in fullscreen window. After recorded a song, the directory of corresponding file is automatically open. You can uninstall the tuner audio, simply the button to open it, will be disable. Despite this program, I made a Edge extension to cut ads on Youtube named noads-extension. The extension can be installed from <a target="_blank" href="edge://extensions/">edge://extensions/</a>. The extension must be open each time you load a new tab or reload a page. It skipping almost all ads in times, ads are far less invasive. I also made another Edge extension named tiktok-voicer-extension. It's for control with voice speech <a target="_blank" href="https://tiktok.com/">TikTok</a> or <a target="_blank" href="https://www.youtube.com/shorts/">Youtube Shorts</a> using next, previous, like, unlike, play, in microphone, enabling browsing short videos. Also another Edge extension I made named speech-comments-extension. It reading comments under any Youtube video when you open it, but you must display some commentaries by scrolling down the Youtube video page, before open it.
+                </p>
+            </div>
+        </div>
+
+    </div>
+
+    <footer class="bottom w3-center">
+        <img src="../img/favicon.png" />
+        <br>
+        <b class="white">MAF</b>
+        <br>
+        <b class="colored">©1999-2023</b>
+    </footer>
+
+    </div>
+
+    <script type="text/javascript">
+        function window_onload() {
+            var sc = document.createElement('script');
+            sc.src = "../custom/custom.js";
+            document.getElementsByTagName('head')[0].appendChild(sc);
+   		    document.getElementsByClassName("spinner")[0].classList.remove("show");
+   		    document.getElementsByClassName("spinner")[0].classList.add("hide");
+  		    $(".spinner").removeClass("show");
+   		    $(".spinner").addClass("hide");
+        }
+    </script>
+
+</body>
+</html>
