@@ -54,9 +54,10 @@
             this.button1.BackColor = System.Drawing.Color.Black;
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button1.ForeColor = System.Drawing.Color.Silver;
-            this.button1.Location = new System.Drawing.Point(68, 12);
+            this.button1.Location = new System.Drawing.Point(91, 15);
+            this.button1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(35, 21);
+            this.button1.Size = new System.Drawing.Size(47, 26);
             this.button1.TabIndex = 1;
             this.button1.Text = "<<";
             this.button1.UseVisualStyleBackColor = false;
@@ -67,9 +68,10 @@
             this.button2.BackColor = System.Drawing.Color.Black;
             this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button2.ForeColor = System.Drawing.Color.Silver;
-            this.button2.Location = new System.Drawing.Point(102, 12);
+            this.button2.Location = new System.Drawing.Point(136, 15);
+            this.button2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(35, 21);
+            this.button2.Size = new System.Drawing.Size(47, 26);
             this.button2.TabIndex = 2;
             this.button2.Text = ">>";
             this.button2.UseVisualStyleBackColor = false;
@@ -80,9 +82,10 @@
             this.button3.BackColor = System.Drawing.Color.Black;
             this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button3.ForeColor = System.Drawing.Color.Silver;
-            this.button3.Location = new System.Drawing.Point(170, 12);
+            this.button3.Location = new System.Drawing.Point(227, 15);
+            this.button3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(35, 21);
+            this.button3.Size = new System.Drawing.Size(47, 26);
             this.button3.TabIndex = 3;
             this.button3.Text = "RE";
             this.button3.UseVisualStyleBackColor = false;
@@ -93,9 +96,10 @@
             this.button4.BackColor = System.Drawing.Color.Black;
             this.button4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button4.ForeColor = System.Drawing.Color.Silver;
-            this.button4.Location = new System.Drawing.Point(204, 12);
+            this.button4.Location = new System.Drawing.Point(272, 15);
+            this.button4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(35, 21);
+            this.button4.Size = new System.Drawing.Size(47, 26);
             this.button4.TabIndex = 4;
             this.button4.Text = "GO";
             this.button4.UseVisualStyleBackColor = false;
@@ -106,9 +110,10 @@
             this.button5.BackColor = System.Drawing.Color.Black;
             this.button5.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button5.ForeColor = System.Drawing.Color.Silver;
-            this.button5.Location = new System.Drawing.Point(0, 12);
+            this.button5.Location = new System.Drawing.Point(0, 15);
+            this.button5.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(35, 21);
+            this.button5.Size = new System.Drawing.Size(47, 26);
             this.button5.TabIndex = 5;
             this.button5.Text = "><";
             this.button5.UseVisualStyleBackColor = false;
@@ -119,9 +124,10 @@
             this.button6.BackColor = System.Drawing.Color.Black;
             this.button6.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button6.ForeColor = System.Drawing.Color.Silver;
-            this.button6.Location = new System.Drawing.Point(34, 12);
+            this.button6.Location = new System.Drawing.Point(45, 15);
+            this.button6.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(35, 21);
+            this.button6.Size = new System.Drawing.Size(47, 26);
             this.button6.TabIndex = 6;
             this.button6.Text = "-";
             this.button6.UseVisualStyleBackColor = false;
@@ -131,9 +137,10 @@
             // 
             this.textBox1.BackColor = System.Drawing.Color.Black;
             this.textBox1.ForeColor = System.Drawing.Color.Silver;
-            this.textBox1.Location = new System.Drawing.Point(245, 12);
+            this.textBox1.Location = new System.Drawing.Point(327, 15);
+            this.textBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(427, 20);
+            this.textBox1.Size = new System.Drawing.Size(568, 22);
             this.textBox1.TabIndex = 7;
             this.textBox1.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox1_KeyDown);
             // 
@@ -142,9 +149,10 @@
             this.button7.BackColor = System.Drawing.Color.Black;
             this.button7.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button7.ForeColor = System.Drawing.Color.Silver;
-            this.button7.Location = new System.Drawing.Point(136, 12);
+            this.button7.Location = new System.Drawing.Point(181, 15);
+            this.button7.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button7.Name = "button7";
-            this.button7.Size = new System.Drawing.Size(35, 21);
+            this.button7.Size = new System.Drawing.Size(47, 26);
             this.button7.TabIndex = 8;
             this.button7.Text = "CH";
             this.button7.UseVisualStyleBackColor = false;
@@ -160,9 +168,10 @@
             // 
             this.textBox2.BackColor = System.Drawing.Color.Black;
             this.textBox2.ForeColor = System.Drawing.Color.Silver;
-            this.textBox2.Location = new System.Drawing.Point(836, 12);
+            this.textBox2.Location = new System.Drawing.Point(1115, 15);
+            this.textBox2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(83, 20);
+            this.textBox2.Size = new System.Drawing.Size(109, 22);
             this.textBox2.TabIndex = 10;
             // 
             // webView1
@@ -181,8 +190,9 @@
             // pictureBox1
             // 
             this.pictureBox1.Location = new System.Drawing.Point(0, 0);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(932, 513);
+            this.pictureBox1.Size = new System.Drawing.Size(1243, 631);
             this.pictureBox1.TabIndex = 11;
             this.pictureBox1.TabStop = false;
             // 
@@ -191,9 +201,10 @@
             this.button8.BackColor = System.Drawing.Color.Black;
             this.button8.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button8.ForeColor = System.Drawing.Color.Silver;
-            this.button8.Location = new System.Drawing.Point(789, 12);
+            this.button8.Location = new System.Drawing.Point(1052, 15);
+            this.button8.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button8.Name = "button8";
-            this.button8.Size = new System.Drawing.Size(35, 21);
+            this.button8.Size = new System.Drawing.Size(47, 26);
             this.button8.TabIndex = 12;
             this.button8.Text = "CC";
             this.button8.UseVisualStyleBackColor = false;
@@ -204,9 +215,10 @@
             this.button9.BackColor = System.Drawing.Color.Black;
             this.button9.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button9.ForeColor = System.Drawing.Color.Silver;
-            this.button9.Location = new System.Drawing.Point(681, 12);
+            this.button9.Location = new System.Drawing.Point(908, 15);
+            this.button9.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button9.Name = "button9";
-            this.button9.Size = new System.Drawing.Size(35, 21);
+            this.button9.Size = new System.Drawing.Size(47, 26);
             this.button9.TabIndex = 13;
             this.button9.Text = "RA";
             this.button9.UseVisualStyleBackColor = false;
@@ -217,9 +229,10 @@
             this.button10.BackColor = System.Drawing.Color.Black;
             this.button10.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button10.ForeColor = System.Drawing.Color.Silver;
-            this.button10.Location = new System.Drawing.Point(753, 12);
+            this.button10.Location = new System.Drawing.Point(1004, 15);
+            this.button10.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button10.Name = "button10";
-            this.button10.Size = new System.Drawing.Size(35, 21);
+            this.button10.Size = new System.Drawing.Size(47, 26);
             this.button10.TabIndex = 14;
             this.button10.Text = "PA";
             this.button10.UseVisualStyleBackColor = false;
@@ -230,9 +243,10 @@
             this.button11.BackColor = System.Drawing.Color.Black;
             this.button11.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button11.ForeColor = System.Drawing.Color.Silver;
-            this.button11.Location = new System.Drawing.Point(717, 12);
+            this.button11.Location = new System.Drawing.Point(956, 15);
+            this.button11.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button11.Name = "button11";
-            this.button11.Size = new System.Drawing.Size(35, 21);
+            this.button11.Size = new System.Drawing.Size(47, 26);
             this.button11.TabIndex = 15;
             this.button11.Text = "TA";
             this.button11.UseVisualStyleBackColor = false;
@@ -240,10 +254,10 @@
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Black;
-            this.ClientSize = new System.Drawing.Size(932, 513);
+            this.ClientSize = new System.Drawing.Size(1243, 631);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.button11);
             this.Controls.Add(this.button10);
@@ -260,10 +274,12 @@
             this.Controls.Add(this.textBox1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "Form1";
             this.Text = "webViewer";
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.Form1_FormClosed);
             this.Shown += new System.EventHandler(this.Form1_Shown);
+            this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
