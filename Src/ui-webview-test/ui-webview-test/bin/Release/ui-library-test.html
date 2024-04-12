@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="fr_FR.UTF-8">
+    <style>
+        body {
+            background-color: black;
+            color: white;
+            width: 100%;
+            overflow-x: hidden;
+        }
+        p, h1 {
+            margin: 10px 15px 0px 0px;
+	    text-align: justify;
+            padding: 0px 10px 0px 10px;
+        }
+        button {
+            width: 100px;
+            height: 40px;
+        }
+        a {
+            white-space: nowrap;
+            color: white;
+            margin: 10px;
+        }
+    </style>
+</head>
+<body>
+    <input type="text" id="search">
+    <button id="btn1" onclick="myFunction1()">Send</button>
+    <button id="btn2" onclick="myFunction2()">Receive</button>
+    <img src="file:///C:/Users/micha/Documents/Perso/ui-libraries/Src/ui-webview-test/ui-webview-test/bin/Release/favicon.jpg" width="400" height="400">
+    <script>
+        const bridge = chrome.webview.hostObjects.bridge;
+        function myFunction1() {
+            var elem = document.getElementById('search');
+            bridge.Func(elem.value);
+        }
+        function myFunction2() {
+            //receiveInSearch(1, 2, 3);
+        }
+	function JavaScripFunctionName1(msg1, msg2) {
+		alert(msg1 + ", " + msg2);
+	}
+    </script>
+</body>
+</html>

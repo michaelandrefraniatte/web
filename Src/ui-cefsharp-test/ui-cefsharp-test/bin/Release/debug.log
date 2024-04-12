@@ -1,0 +1,229 @@
+[0816/093830.718:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[0816/093831.063:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[0816/093831.186:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/' in a frame because it set 'X-Frame-Options' to 'deny'.", source: chrome-error://chromewebdata/ (0)
+[0816/093833.392:INFO:CONSOLE(6099)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/a6e57af1/jsbin/desktop_polymer.vflset/desktop_polymer.js (6099)
+[0816/093848.814:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/ (0)
+[0816/093850.245:WARNING:frame_impl.cc(461)] OnDidFinishLoad sent to detached frame 17179869193 [4,9] will be ignored
+[0816/093850.246:WARNING:frame_impl.cc(461)] SendProcessMessage sent to detached frame 17179869193 [4,9] will be ignored
+[0816/093850.246:WARNING:frame_impl.cc(461)] SendProcessMessage sent to detached frame 17179869193 [4,9] will be ignored
+[0816/093854.226:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738373 [8,5]
+[0816/093855.289:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738373 [8,5]
+[0816/093855.362:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/' in a frame because it set 'X-Frame-Options' to 'deny'.", source: chrome-error://chromewebdata/ (0)
+[0816/093856.197:INFO:CONSOLE(6099)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/a6e57af1/jsbin/desktop_polymer.vflset/desktop_polymer.js (6099)
+[0816/093904.915:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/ (0)
+[0816/093910.347:WARNING:frame_impl.cc(461)] OnDidFinishLoad sent to detached frame 17179869200 [4,16] will be ignored
+[0816/093910.348:WARNING:frame_impl.cc(461)] SendProcessMessage sent to detached frame 17179869200 [4,16] will be ignored
+[0816/093910.348:WARNING:frame_impl.cc(461)] SendProcessMessage sent to detached frame 17179869200 [4,16] will be ignored
+[0816/093916.948:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/ (0)
+[0816/093919.254:WARNING:frame_impl.cc(461)] SendProcessMessage sent to detached frame 17179869185 [4,1] will be ignored
+[0816/093923.197:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869206 [4,22]
+[0816/093923.401:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869206 [4,22]
+[0816/093923.402:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869206 [4,22]
+[0816/093923.403:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869206 [4,22]
+[0816/093923.403:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869206 [4,22]
+[0816/093945.657:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869215 [4,31]
+[0816/093945.794:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869215 [4,31]
+[0816/093945.794:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869215 [4,31]
+[0816/093945.795:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869215 [4,31]
+[0816/093945.795:WARNING:browser_info.cc(298)] Returning a speculative frame for 17179869215 [4,31]
+[0816/094008.310:WARNING:browser_info.cc(298)] Returning a speculative frame for 42949672965 [10,5]
+[0816/094008.311:WARNING:browser_info.cc(298)] Returning a speculative frame for 42949672965 [10,5]
+[0816/094008.312:WARNING:browser_info.cc(298)] Returning a speculative frame for 42949672965 [10,5]
+[0816/094008.312:WARNING:browser_info.cc(298)] Returning a speculative frame for 42949672965 [10,5]
+[0816/094009.104:WARNING:browser_info.cc(298)] Returning a speculative frame for 42949672965 [10,5]
+[0816/094012.111:WARNING:frame_impl.cc(461)] SendProcessMessage sent to detached frame 34359738391 [8,23] will be ignored
+[0816/094012.177:WARNING:frame_impl.cc(461)] SendProcessMessage sent to detached frame 34359738379 [8,11] will be ignored
+[0816/094621.871:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[0816/094622.158:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[0816/094622.477:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/' in a frame because it set 'X-Frame-Options' to 'deny'.", source: chrome-error://chromewebdata/ (0)
+[0816/094624.813:INFO:CONSOLE(6099)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/a6e57af1/jsbin/desktop_polymer.vflset/desktop_polymer.js (6099)
+[0816/094632.338:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/ (0)
+[0816/094636.968:WARNING:frame_impl.cc(461)] OnDidFinishLoad sent to detached frame 17179869193 [4,9] will be ignored
+[0816/094636.968:WARNING:frame_impl.cc(461)] SendProcessMessage sent to detached frame 17179869193 [4,9] will be ignored
+[0816/094636.968:WARNING:frame_impl.cc(461)] SendProcessMessage sent to detached frame 17179869193 [4,9] will be ignored
+[0816/094638.646:WARNING:spdy_session.cc(3502)] Received HEADERS for invalid stream 63
+[0816/094638.907:WARNING:browser_info.cc(298)] Returning a speculative frame for 25769803781 [6,5]
+[0816/094638.940:WARNING:browser_info.cc(298)] Returning a speculative frame for 25769803781 [6,5]
+[0816/094639.027:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/' in a frame because it set 'X-Frame-Options' to 'deny'.", source: chrome-error://chromewebdata/ (0)
+[0816/094640.995:INFO:CONSOLE(6099)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/a6e57af1/jsbin/desktop_polymer.vflset/desktop_polymer.js (6099)
+[0816/094647.274:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/ (0)
+[0816/094650.327:WARNING:frame_impl.cc(461)] OnDidFinishLoad sent to detached frame 17179869199 [4,15] will be ignored
+[0816/094650.328:WARNING:frame_impl.cc(461)] SendProcessMessage sent to detached frame 17179869199 [4,15] will be ignored
+[0816/094650.328:WARNING:frame_impl.cc(461)] SendProcessMessage sent to detached frame 17179869199 [4,15] will be ignored
+[0816/094653.660:WARNING:frame_impl.cc(461)] SendProcessMessage sent to detached frame 17179869196 [4,12] will be ignored
+[0816/094658.646:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[0816/094658.849:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[0816/094659.108:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/' in a frame because it set 'X-Frame-Options' to 'deny'.", source: chrome-error://chromewebdata/ (0)
+[0816/094701.718:INFO:CONSOLE(6099)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/a6e57af1/jsbin/desktop_polymer.vflset/desktop_polymer.js (6099)
+[0816/094708.320:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/ (0)
+[0816/094712.608:WARNING:frame_impl.cc(461)] OnDidFinishLoad sent to detached frame 17179869193 [4,9] will be ignored
+[0816/094712.609:WARNING:frame_impl.cc(461)] SendProcessMessage sent to detached frame 17179869193 [4,9] will be ignored
+[0816/094712.609:WARNING:frame_impl.cc(461)] SendProcessMessage sent to detached frame 17179869193 [4,9] will be ignored
+[0816/094715.472:WARNING:spdy_session.cc(3502)] Received HEADERS for invalid stream 63
+[0816/094715.649:WARNING:browser_info.cc(298)] Returning a speculative frame for 25769803781 [6,5]
+[0816/094715.728:WARNING:browser_info.cc(298)] Returning a speculative frame for 25769803781 [6,5]
+[0816/094715.797:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/' in a frame because it set 'X-Frame-Options' to 'deny'.", source: chrome-error://chromewebdata/ (0)
+[0816/094717.673:INFO:CONSOLE(6099)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/a6e57af1/jsbin/desktop_polymer.vflset/desktop_polymer.js (6099)
+[0816/094724.723:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/ (0)
+[0816/094729.924:WARNING:frame_impl.cc(461)] OnDidFinishLoad sent to detached frame 17179869199 [4,15] will be ignored
+[0816/094729.924:WARNING:frame_impl.cc(461)] SendProcessMessage sent to detached frame 17179869199 [4,15] will be ignored
+[0816/094729.924:WARNING:frame_impl.cc(461)] SendProcessMessage sent to detached frame 17179869199 [4,15] will be ignored
+[0816/094735.300:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/ (0)
+[0816/094739.891:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/ (0)
+[0816/094804.099:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/ (0)
+[0816/094826.003:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/ (0)
+[0816/095017.349:INFO:render_frame_host_impl.cc(11654)] RenderFrameHostImpl::MaybeGenerateCrashReport url = https://youtube.com/, status = 4, exit_code = 258
+[0816/095051.466:INFO:render_frame_host_impl.cc(11654)] RenderFrameHostImpl::MaybeGenerateCrashReport url = https://youtube.com/, status = 4, exit_code = 258
+[0816/095222.703:INFO:render_frame_host_impl.cc(11654)] RenderFrameHostImpl::MaybeGenerateCrashReport url = https://youtube.com/, status = 4, exit_code = 258
+[0816/095323.442:INFO:render_frame_host_impl.cc(11654)] RenderFrameHostImpl::MaybeGenerateCrashReport url = https://youtube.com/, status = 4, exit_code = 258
+[0816/095333.230:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[0816/095333.550:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[0816/095333.712:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/' in a frame because it set 'X-Frame-Options' to 'deny'.", source: chrome-error://chromewebdata/ (0)
+[0816/095336.104:INFO:CONSOLE(6099)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/a6e57af1/jsbin/desktop_polymer.vflset/desktop_polymer.js (6099)
+[0816/095409.475:INFO:render_frame_host_impl.cc(11654)] RenderFrameHostImpl::MaybeGenerateCrashReport url = https://youtube.com/, status = 4, exit_code = 258
+[0816/101232.005:WARNING:browser_info.cc(298)] Returning a speculative frame for 25769803781 [6,5]
+[0816/101232.596:WARNING:browser_info.cc(298)] Returning a speculative frame for 25769803781 [6,5]
+[0816/101232.789:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/' in a frame because it set 'X-Frame-Options' to 'deny'.", source: chrome-error://chromewebdata/ (0)
+[0816/101235.248:INFO:CONSOLE(6099)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/a6e57af1/jsbin/desktop_polymer.vflset/desktop_polymer.js (6099)
+[0816/101247.914:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/ (0)
+[0816/101257.961:WARNING:frame_impl.cc(461)] OnDidFinishLoad sent to detached frame 21474836489 [5,9] will be ignored
+[0816/101257.962:WARNING:frame_impl.cc(461)] SendProcessMessage sent to detached frame 21474836489 [5,9] will be ignored
+[0816/101257.962:WARNING:frame_impl.cc(461)] SendProcessMessage sent to detached frame 21474836489 [5,9] will be ignored
+[0816/101301.451:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/ (0)
+[0816/101308.545:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/ (0)
+[0816/101313.576:WARNING:browser_info.cc(298)] Returning a speculative frame for 38654705669 [9,5]
+[0816/101315.500:INFO:CONSOLE(6099)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/a6e57af1/jsbin/desktop_polymer.vflset/desktop_polymer.js (6099)
+[0816/101315.900:WARNING:browser_info.cc(298)] Returning a speculative frame for 38654705669 [9,5]
+[0816/101315.976:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/' in a frame because it set 'X-Frame-Options' to 'deny'.", source: chrome-error://chromewebdata/ (0)
+[0816/101322.513:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/ (0)
+[0816/101324.491:WARNING:frame_impl.cc(461)] SendProcessMessage sent to detached frame 21474836481 [5,1] will be ignored
+[0816/101325.890:WARNING:sqlite_persistent_store_backend_base.cc(163)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:211 to client_task_runner_.
+[0816/101325.891:WARNING:sqlite_persistent_store_backend_base.cc(163)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:211 to client_task_runner_.
+[0816/101344.690:INFO:CONSOLE(6099)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/a6e57af1/jsbin/desktop_polymer.vflset/desktop_polymer.js (6099)
+[0816/101354.850:WARNING:frame_impl.cc(461)] OnDidFinishLoad sent to detached frame 21474836487 [5,7] will be ignored
+[0816/101354.851:WARNING:frame_impl.cc(461)] SendProcessMessage sent to detached frame 21474836487 [5,7] will be ignored
+[0816/101354.851:WARNING:frame_impl.cc(461)] SendProcessMessage sent to detached frame 21474836487 [5,7] will be ignored
+[0816/101359.126:WARNING:frame_impl.cc(461)] SendProcessMessage sent to detached frame 21474836484 [5,4] will be ignored
+[0816/101359.460:WARNING:sqlite_persistent_store_backend_base.cc(163)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:211 to client_task_runner_.
+[0816/101359.460:WARNING:sqlite_persistent_store_backend_base.cc(163)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:211 to client_task_runner_.
+[0816/101420.581:INFO:CONSOLE(6099)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/a6e57af1/jsbin/desktop_polymer.vflset/desktop_polymer.js (6099)
+[0816/101429.335:WARNING:frame_impl.cc(461)] OnDidFinishLoad sent to detached frame 21474836487 [5,7] will be ignored
+[0816/101429.335:WARNING:frame_impl.cc(461)] SendProcessMessage sent to detached frame 21474836487 [5,7] will be ignored
+[0816/101429.336:WARNING:frame_impl.cc(461)] SendProcessMessage sent to detached frame 21474836487 [5,7] will be ignored
+[0816/101435.904:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/ (0)
+[0816/101441.934:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/ (0)
+[0816/101449.800:WARNING:sqlite_persistent_store_backend_base.cc(163)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:211 to client_task_runner_.
+[0816/101449.801:WARNING:sqlite_persistent_store_backend_base.cc(163)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:211 to client_task_runner_.
+[0816/101617.472:INFO:CONSOLE(6099)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/a6e57af1/jsbin/desktop_polymer.vflset/desktop_polymer.js (6099)
+[0816/101625.898:WARNING:frame_impl.cc(461)] SendProcessMessage sent to detached frame 21474836485 [5,5] will be ignored
+[0816/101626.126:WARNING:sqlite_persistent_store_backend_base.cc(163)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:211 to client_task_runner_.
+[0816/101626.126:WARNING:sqlite_persistent_store_backend_base.cc(163)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:211 to client_task_runner_.
+[0816/101803.265:WARNING:sqlite_persistent_store_backend_base.cc(163)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:211 to client_task_runner_.
+[0816/101803.265:WARNING:sqlite_persistent_store_backend_base.cc(163)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:211 to client_task_runner_.
+[0816/102311.937:INFO:CONSOLE(6099)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/a6e57af1/jsbin/desktop_polymer.vflset/desktop_polymer.js (6099)
+[0816/102337.859:INFO:render_frame_host_impl.cc(11654)] RenderFrameHostImpl::MaybeGenerateCrashReport url = devtools://devtools/devtools_app.html, status = 4, exit_code = 258
+[0816/102338.284:WARNING:frame_impl.cc(461)] SendProcessMessage sent to detached frame 21474836488 [5,8] will be ignored
+[0816/102338.284:WARNING:frame_impl.cc(461)] OnDidFinishLoad sent to detached frame 21474836488 [5,8] will be ignored
+[0816/102338.284:WARNING:frame_impl.cc(461)] SendProcessMessage sent to detached frame 21474836488 [5,8] will be ignored
+[0816/102339.923:WARNING:frame_impl.cc(461)] SendProcessMessage sent to detached frame 21474836486 [5,6] will be ignored
+[0816/102340.033:WARNING:frame_impl.cc(461)] SendProcessMessage sent to detached frame 21474836481 [5,1] will be ignored
+[0816/102440.214:INFO:CONSOLE(6099)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/a6e57af1/jsbin/desktop_polymer.vflset/desktop_polymer.js (6099)
+[0816/102454.323:WARNING:frame_impl.cc(461)] SendProcessMessage sent to detached frame 21474836486 [5,6] will be ignored
+[0816/102454.758:WARNING:sqlite_persistent_store_backend_base.cc(163)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:211 to client_task_runner_.
+[0816/102454.758:WARNING:sqlite_persistent_store_backend_base.cc(163)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:211 to client_task_runner_.
+[0816/102710.379:INFO:CONSOLE(6099)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/a6e57af1/jsbin/desktop_polymer.vflset/desktop_polymer.js (6099)
+[0816/102721.577:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/ (0)
+[0816/102725.663:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/ (0)
+[0816/102728.713:INFO:render_frame_host_impl.cc(11654)] RenderFrameHostImpl::MaybeGenerateCrashReport url = devtools://devtools/devtools_app.html, status = 4, exit_code = 258
+[0816/102730.553:WARNING:frame_impl.cc(461)] SendProcessMessage sent to detached frame 21474836485 [5,5] will be ignored
+[0816/102740.762:INFO:CONSOLE(6099)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/a6e57af1/jsbin/desktop_polymer.vflset/desktop_polymer.js (6099)
+[0816/102752.852:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/ (0)
+[0816/102756.932:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/ (0)
+[0816/102801.924:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/ (0)
+[0816/102816.055:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/ (0)
+[0816/102826.982:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/ (0)
+[0816/102834.609:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/ (0)
+[0816/102847.830:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/ (0)
+[0816/102919.879:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/ (0)
+[0816/102936.516:ERROR:gpu_init.cc(486)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0816/102948.780:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/ (0)
+[0816/102951.812:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/ (0)
+[0816/103023.853:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/ (0)
+[0816/103031.247:INFO:render_frame_host_impl.cc(11654)] RenderFrameHostImpl::MaybeGenerateCrashReport url = devtools://devtools/devtools_app.html, status = 4, exit_code = 258
+[0816/103033.814:WARNING:frame_impl.cc(461)] SendProcessMessage sent to detached frame 21474836485 [5,5] will be ignored
+[0816/103941.058:INFO:CONSOLE(6099)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/a6e57af1/jsbin/desktop_polymer.vflset/desktop_polymer.js (6099)
+[0816/103947.397:INFO:render_frame_host_impl.cc(11654)] RenderFrameHostImpl::MaybeGenerateCrashReport url = devtools://devtools/devtools_app.html, status = 4, exit_code = 258
+[0816/103959.283:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/ (0)
+[0816/104002.742:WARNING:frame_impl.cc(461)] OnDidFinishLoad sent to detached frame 21474836488 [5,8] will be ignored
+[0816/104002.742:WARNING:frame_impl.cc(461)] SendProcessMessage sent to detached frame 21474836488 [5,8] will be ignored
+[0816/104002.742:WARNING:frame_impl.cc(461)] SendProcessMessage sent to detached frame 21474836488 [5,8] will be ignored
+[0816/104008.913:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/ (0)
+[0816/104021.466:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/results?search_query=jv (0)
+[0816/104030.977:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/results?search_query=jv&sp=EgJAAQ%253D%253D (0)
+[0816/104034.660:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/results?search_query=jv&sp=EgJAAQ%253D%253D (0)
+[0816/104052.651:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/results?search_query=jv&sp=EgJAAQ%253D%253D (0)
+[0816/104058.411:INFO:CONSOLE(2804)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/a6e57af1/jsbin/live_chat_polymer.vflset/live_chat_polymer.js (2804)
+[0816/104100.160:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/watch?v=5k20p9OqY84 (0)
+[0816/104109.635:WARNING:frame_impl.cc(461)] SendProcessMessage sent to detached frame 21474836489 [5,9] will be ignored
+[0816/104109.696:WARNING:frame_impl.cc(461)] SendProcessMessage sent to detached frame 21474836481 [5,1] will be ignored
+[0816/104110.787:WARNING:sqlite_persistent_store_backend_base.cc(163)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:211 to client_task_runner_.
+[0816/104110.787:WARNING:sqlite_persistent_store_backend_base.cc(163)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:211 to client_task_runner_.
+[0816/105835.641:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771077 [7,5]
+[0816/105836.243:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771077 [7,5]
+[0816/105836.458:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/' in a frame because it set 'X-Frame-Options' to 'deny'.", source: chrome-error://chromewebdata/ (0)
+[0816/105839.170:INFO:CONSOLE(6099)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/a6e57af1/jsbin/desktop_polymer.vflset/desktop_polymer.js (6099)
+[0816/105848.686:INFO:render_frame_host_impl.cc(11654)] RenderFrameHostImpl::MaybeGenerateCrashReport url = devtools://devtools/devtools_app.html, status = 4, exit_code = 258
+[0816/110436.724:INFO:render_frame_host_impl.cc(11654)] RenderFrameHostImpl::MaybeGenerateCrashReport url = localfolder://cefsharp/, status = 4, exit_code = 258
+[0816/110436.802:INFO:render_frame_host_impl.cc(11654)] RenderFrameHostImpl::MaybeGenerateCrashReport url = devtools://devtools/devtools_app.html, status = 4, exit_code = 258
+[0816/110631.616:INFO:CONSOLE(35)] "Uncaught ReferenceError: demoAbout is not defined", source: localfolder://cefsharp/ (35)
+[0816/110637.451:INFO:render_frame_host_impl.cc(11654)] RenderFrameHostImpl::MaybeGenerateCrashReport url = localfolder://cefsharp/, status = 4, exit_code = 258
+[0816/110637.472:INFO:render_frame_host_impl.cc(11654)] RenderFrameHostImpl::MaybeGenerateCrashReport url = devtools://devtools/devtools_app.html, status = 4, exit_code = 258
+[0816/110739.550:INFO:render_frame_host_impl.cc(11654)] RenderFrameHostImpl::MaybeGenerateCrashReport url = localfolder://cefsharp/, status = 4, exit_code = 258
+[0816/110739.574:INFO:render_frame_host_impl.cc(11654)] RenderFrameHostImpl::MaybeGenerateCrashReport url = devtools://devtools/devtools_app.html, status = 4, exit_code = 258
+[0816/110820.988:INFO:CONSOLE(41)] "Not allowed to load local resource: file:///C:/Users/mic/Documents/GitHub/ui-libraries/Src/ui-library-test/ui-library-test/bin/Release/favicon.jpg", source: localfolder://cefsharp/ (41)
+[0816/110833.257:INFO:render_frame_host_impl.cc(11654)] RenderFrameHostImpl::MaybeGenerateCrashReport url = localfolder://cefsharp/, status = 4, exit_code = 258
+[0816/110833.281:INFO:render_frame_host_impl.cc(11654)] RenderFrameHostImpl::MaybeGenerateCrashReport url = devtools://devtools/devtools_app.html, status = 4, exit_code = 258
+[0816/111002.623:INFO:render_frame_host_impl.cc(11654)] RenderFrameHostImpl::MaybeGenerateCrashReport url = devtools://devtools/devtools_app.html, status = 4, exit_code = 258
+[0816/111003.714:INFO:render_frame_host_impl.cc(11654)] RenderFrameHostImpl::MaybeGenerateCrashReport url = localfolder://cefsharp/, status = 4, exit_code = 258
+[0816/113053.764:INFO:render_frame_host_impl.cc(11654)] RenderFrameHostImpl::MaybeGenerateCrashReport url = localfolder://cefsharp/, status = 4, exit_code = 258
+[0816/113054.041:INFO:render_frame_host_impl.cc(11654)] RenderFrameHostImpl::MaybeGenerateCrashReport url = devtools://devtools/devtools_app.html, status = 4, exit_code = 258
+[0816/115233.580:INFO:render_frame_host_impl.cc(11654)] RenderFrameHostImpl::MaybeGenerateCrashReport url = localfolder://cefsharp/, status = 4, exit_code = 258
+[0816/115233.867:INFO:render_frame_host_impl.cc(11654)] RenderFrameHostImpl::MaybeGenerateCrashReport url = devtools://devtools/devtools_app.html, status = 4, exit_code = 258
+[0816/115928.298:INFO:CONSOLE(36)] "Uncaught Error: Only a single param is accepted", source: localfolder://cefsharp/ (36)
+[0816/115931.197:INFO:CONSOLE(36)] "Uncaught Error: Only a single param is accepted", source: localfolder://cefsharp/ (36)
+[0816/115934.085:INFO:CONSOLE(36)] "Uncaught Error: Only a single param is accepted", source: localfolder://cefsharp/ (36)
+[0816/115947.494:INFO:render_frame_host_impl.cc(11654)] RenderFrameHostImpl::MaybeGenerateCrashReport url = devtools://devtools/devtools_app.html, status = 4, exit_code = 258
+[0816/115948.640:INFO:render_frame_host_impl.cc(11654)] RenderFrameHostImpl::MaybeGenerateCrashReport url = localfolder://cefsharp/, status = 4, exit_code = 258
+[0816/121019.534:INFO:render_frame_host_impl.cc(11654)] RenderFrameHostImpl::MaybeGenerateCrashReport url = localfolder://cefsharp/, status = 4, exit_code = 258
+[0816/121019.636:INFO:render_frame_host_impl.cc(11654)] RenderFrameHostImpl::MaybeGenerateCrashReport url = devtools://devtools/devtools_app.html, status = 4, exit_code = 258
+[0816/121116.946:INFO:render_frame_host_impl.cc(11654)] RenderFrameHostImpl::MaybeGenerateCrashReport url = localfolder://cefsharp/, status = 4, exit_code = 258
+[0816/121116.962:INFO:render_frame_host_impl.cc(11654)] RenderFrameHostImpl::MaybeGenerateCrashReport url = devtools://devtools/devtools_app.html, status = 4, exit_code = 258
+[0816/122853.762:INFO:render_frame_host_impl.cc(11654)] RenderFrameHostImpl::MaybeGenerateCrashReport url = localfolder://cefsharp/, status = 4, exit_code = 258
+[0816/122854.081:INFO:render_frame_host_impl.cc(11654)] RenderFrameHostImpl::MaybeGenerateCrashReport url = devtools://devtools/devtools_app.html, status = 4, exit_code = 258
+[0816/123005.207:INFO:render_frame_host_impl.cc(11654)] RenderFrameHostImpl::MaybeGenerateCrashReport url = devtools://devtools/devtools_app.html, status = 4, exit_code = 258
+[0816/123006.720:INFO:render_frame_host_impl.cc(11654)] RenderFrameHostImpl::MaybeGenerateCrashReport url = localfolder://cefsharp/, status = 4, exit_code = 258
+[0816/123110.126:INFO:render_frame_host_impl.cc(11654)] RenderFrameHostImpl::MaybeGenerateCrashReport url = devtools://devtools/devtools_app.html, status = 4, exit_code = 258
+[0816/123113.960:INFO:render_frame_host_impl.cc(11654)] RenderFrameHostImpl::MaybeGenerateCrashReport url = localfolder://cefsharp/, status = 4, exit_code = 258
+[0816/124226.788:INFO:render_frame_host_impl.cc(11654)] RenderFrameHostImpl::MaybeGenerateCrashReport url = devtools://devtools/devtools_app.html, status = 4, exit_code = 258
+[0816/124241.807:INFO:render_frame_host_impl.cc(11654)] RenderFrameHostImpl::MaybeGenerateCrashReport url = localfolder://cefsharp/, status = 4, exit_code = 258
+[0819/114552.481:INFO:render_frame_host_impl.cc(11654)] RenderFrameHostImpl::MaybeGenerateCrashReport url = localfolder://cefsharp/, status = 4, exit_code = 258
+[0819/114552.650:INFO:render_frame_host_impl.cc(11654)] RenderFrameHostImpl::MaybeGenerateCrashReport url = devtools://devtools/devtools_app.html, status = 4, exit_code = 258
